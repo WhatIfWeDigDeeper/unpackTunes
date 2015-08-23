@@ -4,7 +4,7 @@ Script takes required input and output directory. For the input folder, it can h
 
 ## Sample folders
 
-```
+
 :open_file_folder: c:\temp\tunes
   :open_file_folder: F00
     :camera: ADAN.m4a
@@ -12,7 +12,7 @@ Script takes required input and output directory. For the input folder, it can h
   :open_file_folder: F01
     :camera: ALSR.mp3
     :camera: PTZX.m4p
-```
+
 
 ## PowerShell command prompt examples
 ```powershell
@@ -30,9 +30,9 @@ Script takes required input and output directory. For the input folder, it can h
 ## Parameters
 Parameter | Description
 --------- | -------------
-musicSource | Required folder or root folder for location of randomly named music files
-musicDestination | Required target folder to copy files to
-removeTheFromArtist | remove the starting "The" from artist name, such as "The Beatles" becomes the "Beatles"
+musicSource | **Required** folder or root folder for location of randomly named music files
+musicDestination | **Required** target folder to copy files to
+removeTheFromArtist | Remove the starting "The" from artist name, such as "The Beatles" becomes the "Beatles"
 force | overwrite existing files
 
 
