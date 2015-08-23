@@ -4,14 +4,13 @@ Script takes required input and output directory. For the input folder, it can h
 
 ## Sample folders
 
-
 :open_file_folder: c:\temp\tunes
-  :open_file_folder: F00
-    :camera: ADAN.m4a
-    :camera: BFVQ.mp3
-  :open_file_folder: F01
-    :camera: ALSR.mp3
-    :camera: PTZX.m4p
+<br/>&nbsp;&nbsp; :open_file_folder: F00
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; :camera: ADAN.m4a
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; :camera: BFVQ.mp3
+<br/>&nbsp;&nbsp; :open_file_folder: F01
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; :camera: ALSR.mp3
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; :camera: PTZX.m4p
 
 
 ## PowerShell command prompt examples
